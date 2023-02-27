@@ -1,0 +1,11 @@
+.li:hover .image { 
+    transition:0.5s all;
+    background-color: #2F7A2F;
+}
+
+.li:hover {
+      background-color: #2BA837 ;
+      transition:0.5s all;
+
+  }
+  
