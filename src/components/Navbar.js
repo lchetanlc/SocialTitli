@@ -41,6 +41,7 @@ export default function Navbar() {
               <li className="navbar__menu-item">Home</li>
               <li className="navbar__menu-item">About</li>
               <li className="navbar__menu-item">Services</li>
+              <li className="navbar__menu-item">DevOps</li>
               <li className="navbar__menu-item">Contact</li>
               
               <li id='hey' className="navbar__menu-item">Company</li>
